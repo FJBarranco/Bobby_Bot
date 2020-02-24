@@ -1,0 +1,88 @@
+﻿//Move and Avoid Objects
+
+//void Auto_Mode()
+//{
+//	//==============================================================================
+//
+//	Ultrasonic_Sensor(); // Continue Monitoring Area
+//
+//	//==============================================================================
+//
+//	//Movement Algorythem
+//
+//	if (distance <= 30)
+//	{
+//		Stop();
+//		servo1.write(15); // Check first path
+//		Ultrasonic_Sensor();  // Start Checking Obstacles 
+//
+//		if (distance > 30)
+//		{
+//			Right();
+//			delay(550);
+//			servo1.write(90); // Straighten The Sensor
+//			delay(50);
+//		}
+//
+//		if (distance <= 30)
+//		{
+//			Stop();
+//			servo1.write(160); // Check second path
+//			Ultrasonic_Sensor();  // Start Checking Obstacles 
+//
+//			if (distance > 30)
+//			{
+//				Left();
+//				delay(550);
+//				servo1.write(90); // Straighten The Sensor
+//				delay(50);
+//			}
+//
+//			if (distance <= 30)
+//			{
+//				servo1.write(90); // Straighten The Sensor
+//				delay(50);
+//				Stop();
+//				delay(500);
+//				Reverse();
+//				delay(300);
+//				Right();
+//				delay(550);
+//
+//				if (distance <= 30)
+//				{
+//					servo1.write(90); // Straighten The Sensor
+//					delay(50);
+//					Stop();
+//					delay(500);
+//					Reverse();
+//					delay(550);
+//					Left();
+//					delay(550);
+//				}
+//
+//				else
+//					servo1.write(90); // Straighten The Sensor
+//				delay(50);
+//				Forward();
+//
+//			}
+//
+//			else
+//				servo1.write(90); // Straighten The Sensor
+//			delay(50);
+//			Forward();
+//		}
+//
+//		else
+//			servo1.write(90); // Straighten The Sensor
+//		delay(50);
+//		Forward();
+//	}
+//
+//
+//	else
+//		servo1.write(90); // Straighten The Sensor
+//	delay(50);
+//	Forward();
+//}

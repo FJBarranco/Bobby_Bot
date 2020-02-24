@@ -1,0 +1,44 @@
+C:\Users\Fernando\AppData\Local\Temp\VMBuilds\Bobby\ Bot\mega_atmega2560\Debug\Bobby\ Bot.cpp.o: \
+ C:\Users\Fernando\AppData\Local\Temp\VMBuilds\Bobby\ Bot\mega_atmega2560\Debug\Bobby\ Bot.cpp \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/arduino.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WString.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/HardwareSerial.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Stream.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Print.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Printable.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\variants\mega/pins_arduino.h \
+ c:\program\ files\ (x86)\microsoft\ visual\ studio\2017\professional\common7\ide\extensions\cpwzuv43.p51\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
+ C:\Users\Fernando\Documents\Arduino\libraries\SimpleDHT/SimpleDHT.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Servo\src/Servo.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Servo\src/avr/ServoTimers.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/BlynkSimpleShieldEsp8266.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/BlynkApiArduino.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkApi.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkConfig.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkDetectDevice.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkDebug.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkParam.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkTimer.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkHandlers.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkProtocolDefs.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkProtocol.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/utility/BlynkUtility.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/utility/BlynkFifo.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\BlynkESP8266_Lib/ESP8266_Lib.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/BlynkWidgets.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetLED.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/Blynk/BlynkWidgetBase.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetLCD.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetTerminal.h \
+ C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Print.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetBridge.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetTimeInput.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/utility/BlynkDateTime.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetTable.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetGPS.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\Blynk\src/WidgetMap.h

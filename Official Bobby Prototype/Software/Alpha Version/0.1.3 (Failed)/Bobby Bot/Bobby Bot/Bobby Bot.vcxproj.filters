@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Actions">
+      <UniqueIdentifier>{498eb8b7-b812-4fc2-b1fc-ec464a1cbfe8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Modes">
+      <UniqueIdentifier>{54925d53-f227-499a-8fb7-e192bbbdc79b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Env_Sensors">
+      <UniqueIdentifier>{0d55d828-3818-47b1-aad6-e77c0280ad0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Logic_Sensors">
+      <UniqueIdentifier>{2f822738-e1b0-4bfe-b75d-1af19248019f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Logic_Actions">
+      <UniqueIdentifier>{6feb27da-dadb-47ce-b9b5-dec252169682}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Logic_Processing">
+      <UniqueIdentifier>{ceddbc9a-d94d-402c-bdcc-2d4c88fc05ba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Bobby Bot.ino" />
+    <None Include="Carbon_Monoxide_Sensor.ino">
+      <Filter>Source Files\Env_Sensors</Filter>
+    </None>
+    <None Include="Temp_Humid_Sensor.ino">
+      <Filter>Source Files\Env_Sensors</Filter>
+    </None>
+    <None Include="Ultrasonic_Sensor_ChkDistance.ino">
+      <Filter>Source Files\Logic_Sensors</Filter>
+    </None>
+    <None Include="Virtual_Joy_Stick.ino">
+      <Filter>Source Files\Actions</Filter>
+    </None>
+    <None Include="Bot_Movement.ino">
+      <Filter>Source Files\Actions</Filter>
+    </None>
+    <None Include="Ultrasonic_Servo_1.ino">
+      <Filter>Source Files\Actions</Filter>
+    </None>
+    <None Include="Roam.ino">
+      <Filter>Source Files\Logic_Actions</Filter>
+    </None>
+    <None Include="Mode_Check.ino">
+      <Filter>Source Files\Logic_Processing</Filter>
+    </None>
+    <None Include="Auto_Mode.ino">
+      <Filter>Source Files\Modes</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.Bobby Bot.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

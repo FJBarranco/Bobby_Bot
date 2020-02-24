@@ -1,0 +1,27 @@
+Adding Features
+
+- Sound Detection (Barking)
+*Interact Sound detection with Device (Send Notification to Owner)
+*Interact Sound detection with Robot (Start Moving and Scanning area untill owner switches to manual mode)
+
+
+-Temp & Humidity Read
+*Interact Sound detection with Device (Send Notification to Owner)
+
+
+
+
+
+Future Features
+
+-Whistel Sound
+*Call Pet to device
+
+-Throw Treat
+*Dispense a small treat for dog
+
+Fixes+
+*Turning Time increase. (X)
+*Bridge 2 processors (Proc1: Movements,Servo, Ultrasonic Sensor)||(Proc2: Temp&Humid Sensor,Carbon Sensor,Sound Sensor,Treat Dispensor,Whistle)
+
+- and more!

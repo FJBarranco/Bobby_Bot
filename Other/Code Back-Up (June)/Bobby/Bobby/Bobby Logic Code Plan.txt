@@ -1,0 +1,60 @@
+Pins
+------------
+-Motor 1
+2 = DR1
+3 = PWM1
+4 = EN1
+
+-Motor 2
+5 = DR2
+6 = PWM2
+7 = EN2
+
+
+
+Forward
+------------
+-Motor 1
+2 (HIGH) 
+3 analogWrite(255) //100%
+4 (HIGH)
+-Motor 2
+5 (HIGH)
+6 analogWrite(255) //100%
+7 (HIGH)
+
+
+Reverse
+-----------
+-Motor 1
+2 (LOW) 
+3 analogWrite(255) //100%
+4 (HIGH)
+-Motor 2
+5 (LOW)
+6 analogWrite(255) //100%
+7 (HIGH)
+
+
+Brake
+---------
+-Motor 1
+2 (LOW) 
+3 analogWrite(0) //0%
+4 (HIGH)
+-Motor 2
+5 (LOW) 
+6 analogWrite(0) //0%
+7 (HIGH)
+
+
+Stop
+--------
+-Motor 1
+2 (LOW) 
+3 analogWrite(0) //0%
+4 (LOW)
+-Motor 2
+5 (LOW) 
+6 analogWrite(0) //0%
+7 (LOW)
